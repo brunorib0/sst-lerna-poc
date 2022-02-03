@@ -8,6 +8,6 @@ export class AppController {
 
   @Get('/')
   get(): string {
-    return this.appService.getData();
+    return "Hellow world from NestJS app";
   }
 }
