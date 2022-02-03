@@ -3,7 +3,21 @@
   "version": "0.0.1",
   "main": "handler.js",
   "license": "MIT",
+  "devDependencies": {
+    "@anatine/esbuild-decorators": "^0.2.12",
+    "@aws-cdk/assert": "1.111.0",
+    "@types/aws-lambda": "^8.10.70",
+    "@types/aws-serverless-express": "^3.3.5"
+  },
   "dependencies": {
-    "sample": "^0.0.1"
+    "@aws-cdk/core": "1.111.0",
+    "@nestjs/common": "^8.0.4",
+    "@nestjs/core": "^8.0.4",
+    "@nestjs/platform-express": "^8.0.4",
+    "@serverless-stack/cli": "0.35.0",
+    "@serverless-stack/resources": "0.35.0",
+    "@vendia/serverless-express": "^4.3.9",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^7.2.0"
   }
 }
