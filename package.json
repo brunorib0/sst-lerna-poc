@@ -17,12 +17,11 @@
     "remove": "sst remove"
   },
   "devDependencies": {
-    "@aws-cdk/assert": "1.105.0",
     "lerna": "^3.22.1"
   },
   "dependencies": {
-    "@serverless-stack/cli": "0.29.2",
-    "@serverless-stack/resources": "0.29.2",
-    "@aws-cdk/core": "1.105.0"
+    "@serverless-stack/cli": "0.61.0",
+    "@serverless-stack/resources": "0.61.0",
+    "aws-cdk-lib": "2.7.0"
   }
 }
