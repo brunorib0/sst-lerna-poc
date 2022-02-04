@@ -1,7 +1,6 @@
 {
   "name": "service1",
   "version": "0.0.1",
-  "main": "handler.js",
   "license": "MIT",
   "devDependencies": {
     "@anatine/esbuild-decorators": "^0.2.12",

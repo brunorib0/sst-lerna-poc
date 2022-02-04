@@ -8,7 +8,7 @@ let server: Handler;
 
 async function bootstrap(): Promise<Handler> {
   const app = await NestFactory.create(AppModule);
-  console.log('Boostrapping service....');
+  console.log('Boostrapping service...');
   await app.init();
 
   const expressApp = app.getHttpAdapter().getInstance();
