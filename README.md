@@ -1,5 +1,7 @@
 # SST Lerna + Yarn Workspaces Starter [![Seed Status](https://api.seed.run/serverless-stack/lerna-yarn-starter/stages/dev/build_badge)](https://console.seed.run/serverless-stack/lerna-yarn-starter)
 
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+
 A [Serverless Stack Framework (SST)](https://github.com/serverless-stack/serverless-stack) monorepo starter that uses [Lerna](https://lerna.js.org) and [Yarn Workspaces](https://classic.yarnpkg.com/en/docs/workspaces/).
 
 - A full-stack serverless app
