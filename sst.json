@@ -1,5 +1,5 @@
 {
   "name": "sst-lerna-yarn-starter",
   "region": "us-east-1",
-  "lint": true
+  "lint": false
 }
