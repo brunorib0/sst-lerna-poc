@@ -11,7 +11,7 @@ describe('General unit tests for service 1', () => {
         expect(appService.getData()).toEqual('Hello from service');
     })
 
-    it('should break to test build pipeline', async () => {
-        expect(true).toBeFalsy();
+    it('should not break to test anymore', async () => {
+        expect(true).toBeTruthy();
     })
 })
