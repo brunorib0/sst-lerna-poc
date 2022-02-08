@@ -5,7 +5,8 @@
   "devDependencies": {
     "@anatine/esbuild-decorators": "^0.2.12",
     "@types/aws-lambda": "^8.10.70",
-    "@types/aws-serverless-express": "^3.3.5"
+    "@types/aws-serverless-express": "^3.3.5",
+    "@nestjs/testing": "^8.2.6"
   },
   "dependencies": {
     "@nestjs/common": "^8.0.4",
