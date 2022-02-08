@@ -10,7 +10,7 @@
     "downlevelIteration": true,
     "rootDir": ".",
     "target": "es6",
-    "module": "CommonJS",
+    "module": "node12",
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
     "skipLibCheck": true,
@@ -18,7 +18,7 @@
   },
   "include": [
     "src/**/*.ts",
-    "test/**/*.ts",
+    "test/**/*.ts"
   ],
   "exclude": [
     "node_modules",

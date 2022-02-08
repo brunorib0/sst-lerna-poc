@@ -3540,6 +3540,14 @@
     multer "1.4.4"
     tslib "2.3.1"
 
+"@nestjs/testing@^8.2.6":
+  version "8.2.6"
+  resolved "https://registry.yarnpkg.com/@nestjs/testing/-/testing-8.2.6.tgz#a0677d6b2e774cc805f6fa9e46a74584ca82d8f9"
+  integrity sha512-Cg8tM7yxlLDBO+CTNjk6X/UkxGRsprFc8gDHGEGesiE9wLErxNnslFugfUnYWJaSzmLZSqcFFig7mThc8VSxrw==
+  dependencies:
+    optional "0.1.4"
+    tslib "2.3.1"
+
 "@next/env@11.1.4":
   version "11.1.4"
   resolved "https://registry.yarnpkg.com/@next/env/-/env-11.1.4.tgz#ff6090c2c38ca08e7d73eed616ff0899dd3fcc41"
@@ -14150,6 +14158,11 @@ optimize-css-assets-webpack-plugin@5.0.4:
   dependencies:
     cssnano "^4.1.10"
     last-call-webpack-plugin "^3.0.0"
+
+optional@0.1.4:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/optional/-/optional-0.1.4.tgz#cdb1a9bedc737d2025f690ceeb50e049444fd5b3"
+  integrity sha512-gtvrrCfkE08wKcgXaVwQVgwEQ8vel2dc5DDBn9RLQZ3YtmtkBss6A2HY6BnJH4N/4Ku97Ri/SF8sNWE2225WJw==
 
 optionator@^0.8.1:
   version "0.8.3"
